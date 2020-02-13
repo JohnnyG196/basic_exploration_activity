@@ -4,7 +4,8 @@ This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Elect
 
 Steps completed:
 
-1. Created Github Repository
-2. Found a Dataset
-
-TODO: Do some basic EDA and figure out some interesting information, that will be discussed with the team 
+[x]: Created GitHub Repository
+[x]: Found a [Dataset](./electric-vehicle-pop-data.csv)
+[ ]: Describe the Dataset
+[ ]: Graph interesting information
+[ ]: Share our results
